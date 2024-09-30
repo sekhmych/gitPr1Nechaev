@@ -1,7 +1,9 @@
 #include <iostream>
 #include <string>
 
+// Entry point
 int main() {
+	// Saving user_name
 	std::string name;
 	std::cout << "Enter your name: ";
 	std::cin >> name;
