@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 
-// Main, point of programm
+// Стартовая точка программы
 int main() {
-	// Name contains, user name
+	// Name contains, имя пользователя
 	std::string name;
 	std::cout << "Enter your name: ";
 	std::cin >> name;
