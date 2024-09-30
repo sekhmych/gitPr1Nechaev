@@ -1,9 +1,9 @@
 #include <iostream>
 #include <string>
 
-// Entry point
+// Main point of programm
 int main() {
-	// Saving user_name
+	// Name contains user name
 	std::string name;
 	std::cout << "Enter your name: ";
 	std::cin >> name;
